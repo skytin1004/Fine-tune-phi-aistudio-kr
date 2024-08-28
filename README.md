@@ -21,3 +21,4 @@
 ### Phi-3 CookBook E2E 샘플 링크
 
 - [Code-first approach: End-to-end (E2E) sample on Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration.md?wt.mc_id=studentamb_279723)
+- [Low-code approach: End-to-end (E2E) sample on Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration_AIstudio.md?wt.mc_id=studentamb_279723)
