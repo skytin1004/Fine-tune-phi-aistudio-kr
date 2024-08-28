@@ -10,7 +10,7 @@
 
 **시나리오 2: Phi-3 모델 미세 조정 및 Azure 머신 러닝 스튜디오에 배포**
 
-**Scenario 3: Integrate with Prompt flow and Chat with your custom model in Azure AI Studio**
+**시나리오 3: Prompt flow와 통합 및 Azure AI Studio에서 사용자 정의 모델과 채팅**
 
 다음은 이 E2E 샘플의 개요입니다.
 
