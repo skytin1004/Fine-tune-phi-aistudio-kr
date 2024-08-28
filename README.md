@@ -1,4 +1,4 @@
-# Azure AI / ML Studio에서 소형 언어 모델Phi-3를 학습하고 사용하는 방법
+# Azure AI / ML Studio에서 소형 언어 모델 Phi-3를 학습하고 사용하는 방법
 
 > [!NOTE]
 > 2024년 8월 30일 금요일 한국 MLSA(Microsoft Learn Student Ambassadors)가 주최하는 "글로벌 IT 리더로 성장하기 위한 2024 MLSA 대학생 IT 러닝 캠프" 세미나에서 "Azure AI / ML Studio에서 소형 언어 모델 Phi-3를 학습하고 사용하는 방법" 발표에서 제공되는 실습자료 입니다.
