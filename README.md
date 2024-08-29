@@ -8,6 +8,10 @@
 
 1. [Azure AI Studio에서 사용자 정의 Phi-3 모델을 파인 튜닝하고 Prompt flow와 통합하기](./md/E2E_Phi-3-FineTuning_PromptFlow_Integration_AIstudio_kr.md)(✅)
 
+## 발표자료
+
+1. [Azure AI Studio에서 사용자 정의 Phi-3 모델을 파인 튜닝하고 Prompt flow와 통합하기](./pr/Phi-3_ai_studio.pdf)(✅)
+
 ## 작성한 MS Tech Community 문서 및 E2E 샘플 공유 (참고용)
 
 ### MS Tech Community 문서 링크
